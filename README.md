@@ -16,3 +16,26 @@ VISUALISASI NORMALITAS DATA:
 <br>
 <br>
 <br>
+VISUALISASI T-TABEL (ONE TAILED)
+![T](img/one tailed.png)
+<br>
+<br>
+<br>
+<br>
+VISUALISASI GRAFIK PRE-TEST & POST-TEST
+![GRAFIK](img/grafik.png)
+<br>
+<br>
+<br>
+VISUALISASI TRACE PRE-TEST & POST-TEST
+![TRACE](img/trace.png)
+<br>
+<br>
+<br>
+VISUALISASI DISTRIBUSI SKOR & BOX PLOT PRE-TEST & POST-TEST
+![DISTBOX](img/distribusi box plot.png)
+<br>
+<br>
+<br>
+VISUALISASI HEATMAP PRE-TEST & POST-TEST
+![HEATMAP](img/newplot.png)
