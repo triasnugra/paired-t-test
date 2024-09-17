@@ -1,5 +1,5 @@
 # paired-t-test
-**uji statistik menggunkan Python oleh Bu Choiriyah Widyasari & Triaz**
+**uji statistik menggunkan Python oleh Dr. Choiriyah Widyasari & Triaz**
 <br>
 terdapat:<br>
 *1. uji normalitas data* <br>
