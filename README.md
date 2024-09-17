@@ -17,7 +17,7 @@ VISUALISASI NORMALITAS DATA:
 <br>
 <br>
 VISUALISASI T-TABEL (ONE TAILED)
-![T](img/one tailed.png)
+![T](img/onetailed.png)
 <br>
 <br>
 <br>
@@ -33,7 +33,7 @@ VISUALISASI TRACE PRE-TEST & POST-TEST
 <br>
 <br>
 VISUALISASI DISTRIBUSI SKOR & BOX PLOT PRE-TEST & POST-TEST
-![DISTBOX](img/distribusi box plot.png)
+![DISTBOX](img/distbox.png)
 <br>
 <br>
 <br>
