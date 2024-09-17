@@ -1,8 +1,8 @@
 # paired-t-test
 **uji statistik menggunkan Python oleh Bu Choiriyah Widyasari & Triaz**
 <br>
-terdapat:
-*1. uji normalitas data*
+terdapat:<br>
+*1. uji normalitas data* <br>
 *2. uji paired t test*
 <br>
 
