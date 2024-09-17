@@ -2,9 +2,10 @@
 **uji statistik menggunkan Python oleh Bu Choiriyah Widyasari & Triaz**
 
 terdapat:
-<span style="color: red;">1. uji normalitas data</span>
-<span style="color: red;">2. uji paired t test</span>
+*1. uji normalitas data*
+*2. uji paired t test*
 
 
-visualisasi normalitas data:
+VISUALISASI NORMALITAS DATA:
 ![Distribusi Frekuensi](img/qqnormality.png)
+![Distribusi Frekuensi](img/normalitydist.png)
