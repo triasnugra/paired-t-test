@@ -17,7 +17,7 @@ VISUALISASI NORMALITAS DATA:
 <br>
 <br>
 VISUALISASI T-TABEL (ONE TAILED)
-![T](img/onetailed.png)
+![one tailed](img/onetailed.png)
 <br>
 <br>
 <br>
