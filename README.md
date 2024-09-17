@@ -7,18 +7,18 @@ terdapat:<br>
 <br>
 
 >VISUALISASI NORMALITAS DATA:
-![Distribusi Frekuensi](img/qqnormality.png)
+![Distribusi Frekuensi](img/qqnormality.png) 
 <br>
 <br>
 <br>
-![Distribusi Frekuensi](img/normalitydist.png)
+![Distribusi Frekuensi](img/normalitydist.png) 
 <br>
 <br>
 <br>
 <br>
 
->VISUALISASI T-TABEL (ONE TAILED)
-![one tailed](img/onetailed.png)
+>VISUALISASI T-TABEL (ONE TAILED) 
+>![one tailed](img/onetailed.png) 
 <br>
 <br>
 <br>
