@@ -11,7 +11,7 @@ terdapat:<br>
 <br>
 <br>
 <br>
-![Distribusi Frekuensi](img/normalitydist.png).
+![Distribusi Frekuensi](img/normalitydist.png)
 <br>
 <br>
 <br>
