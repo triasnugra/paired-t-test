@@ -9,4 +9,10 @@ terdapat:<br>
 VISUALISASI NORMALITAS DATA:
 ![Distribusi Frekuensi](img/qqnormality.png)
 <br>
+<br>
+<br>
 ![Distribusi Frekuensi](img/normalitydist.png)
+<br>
+<br>
+<br>
+<br>
